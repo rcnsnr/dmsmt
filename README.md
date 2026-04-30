@@ -1,3 +1,5 @@
+> Maintenance status: archived / historical project. This repository is kept as a reference for older Linux operations automation work.
+
 # Disk Monitoring and System Maintenance Tool
 
 This project is a comprehensive **disk monitoring and system maintenance tool** designed to track disk utilization, identify large files, manage log rotation, and detect zombie processes. It integrates seamlessly with Jenkins pipelines for scheduled checks and generates alerts via Microsoft Teams and Slack. The tool is designed to work across various environments, including:
